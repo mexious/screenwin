@@ -2,7 +2,7 @@
 #
 # Windows Screenfetch <screenwin> v0.1 Beta
 # Developer By Muhammad Rifky Abimayu <saya@rifky.tech> 
-# License: GNU General Public License <https://www.gnu.org/licenses/>
+# License: GNU General Public License <https://www.gnu.org/licenses/gpl.html>
 # Visit My Blog : http://www.mexious.net
 
 version='v0.1 Beta'
@@ -47,8 +47,8 @@ while getopts "vVh" flags; do
 			echo -e "${und}Screenwin${rst} - Version ${version}"
 			echo -e "Copyright (c) 2018 Muhammad Rifky Abimayu <saya@rifky.tech>"
 			echo ""
-			echo -e "For Installation, Application Requitment, Visit  "
-			echo -e "This is open source software, under the GNU General Public license: https://www.gnu.org/licenses/"
+			echo -e "For Installation, Read : https://git.io/vNL3r "
+			echo -e "This is open source software, under the GNU General Public license: https://www.gnu.org/licenses/gpl.html"
 			echo -e "You Can Download Source: ${und}https://github.com/rifkytech/screenwin${rst}"
 			exit;;
 		v) debug=1 continue;;
