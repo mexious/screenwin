@@ -29,7 +29,7 @@ Anda Harus Setting Environment Variables nya dahulu,
 
 
 ### Screenshot
-![Screenwin](https://github.com/rifkytech/screenwin/blob/master/screenshot/bash.png)
+![Screenwin](https://rifkytech.github.io/screenwin/screenshot/bash.png)
 
 ### Lisensi
 Software Ini Menggunakan Lisensi GNU General License 
