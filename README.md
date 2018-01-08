@@ -4,7 +4,9 @@ System Melalui Bash Terminal
 
 Ini Merupakan Aplikasi Open Source , Jadi Silahkan Dikembangkan 
 
-# Aplikasi Pendukung
+### Aplikasi Pendukung
 Berhubung Ini Untuk Windows, Maka Perlu Aplikasi Terminal Tambahan Yaitu :
 
-<a href="https://www.mingw.com">MINGW</a> Terminal
+1. <a href="http://www.mingw.org/">MINGW</a> GNU Terminal
+
+2. <a href="http://www.cygwin.com/">CYGWIN</a> GNU Terminal
