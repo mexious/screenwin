@@ -18,8 +18,14 @@ Untuk Melalukan Instalasi Berikut Caranya :
 3. Setelah Di Download , Ketik <code> cd screenwin</code>
 4. Test Software nya dengan ketik perintah <code>sh screenwin</code>
 
-### Setting Environtment Variable
+### Setting Environment Variables
 Agar Saat Menggunakan Screenwin tanpa harus ke directory tempatny,
-Anda Harus Setting Environtment Variable nya dahulu,
+Anda Harus Setting Environment Variables nya dahulu,
 
-1 
+1. Buka <code>Control Panel</code>, Klik <code>System Security > System</code>
+2. Setelah Itu , Cari "Advanced System Setting" dan Klik, Setelah Muncul Pop Up Klik Environment Variables
+3. Tambahkan screenwin di Path System, Tambah Sesuai Alamat Directory File Screenwin nya (Punya Saya : C:\Users\Admin\screenwin)
+4. Setelah Itu Tambahkan ';' Di Akhirnya, dan Save
+
+
+### Screenshot
