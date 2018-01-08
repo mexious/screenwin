@@ -33,4 +33,4 @@ Anda Harus Setting Environment Variables nya dahulu,
 
 ### Lisensi
 Software Ini Menggunakan Lisensi GNU General License 
-Baca Selengkapnya >> https://www.gnu.org/licenses/gpl.html <<
+Baca Selengkapnya >> <a href="https://www.gnu.org/licenses/gpl.html">https://www.gnu.org/licenses/gpl.html</a> <<
