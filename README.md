@@ -1,4 +1,6 @@
- <link rel="shortcut icon" type="image/x-icon" href="https://www.mexious.net/favicon.ico">
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="https://www.mexious.net/favicon.ico">
+</head>
 ### About screenwin
 Screenfetch Untuk Windows Versi v0.1 Beta,Merupakan Aplikasi Tool Informasi
 System Melalui Bash Terminal
@@ -15,7 +17,7 @@ Berhubung Ini Untuk OS Windows, Maka Perlu Aplikasi Terminal Tambahan Yaitu :
 Untuk Melalukan Instalasi Berikut Caranya :
 
 1. Install Aplikasi GNU Terminal Tambahan, (MINGW, CYGWIN)
-2. Download Repository Ini, Atau Menggunakan Aplikasi Git <code>git clone https://github.com/rifkytech/screenwin.git</code>
+2. Download Repository Ini Di https://github.com/rifkytech/screenwin , Atau Menggunakan Aplikasi Git <code>git clone https://github.com/rifkytech/screenwin.git</code>
 3. Setelah Di Download , Ketik <code> cd screenwin</code>
 4. Test Software nya dengan ketik perintah <code>sh screenwin</code>
 
