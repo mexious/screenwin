@@ -1,19 +1,19 @@
 <head>
 <link rel="shortcut icon" type="image/x-icon" href="https://www.mexious.net/favicon.ico">
 </head>
-# About screenwin
+## About screenwin
 Screenfetch Untuk Windows Versi  v0.2.1 Stable,Merupakan Aplikasi Tool Informasi
 System Melalui Bash Terminal
 
 Ini Merupakan Aplikasi Open Source , Jadi Silahkan Dikembangkan 
 
-# Aplikasi Pendukung
+## Aplikasi Pendukung
 Berhubung Ini Untuk OS Windows, Maka Perlu Aplikasi Terminal Tambahan Yaitu :
 
 1. <a href="http://www.mingw.org/"><code>MINGW</code></a> GNU Terminal
 2. <a href="http://www.cygwin.com/"><code>CYGWIN</code></a> GNU Terminal
 
-# Instalasi 
+## Instalasi 
 Untuk Melalukan Instalasi Berikut Caranya :
 
 1. Install Aplikasi GNU Terminal Tambahan, (MINGW, CYGWIN)
@@ -21,7 +21,7 @@ Untuk Melalukan Instalasi Berikut Caranya :
 3. Setelah Di Download , Ketik <code> cd screenwin</code>
 4. Test Software nya dengan ketik perintah <code>sh screenwin</code>
 
-# Setting Environment Variables
+## Setting Environment Variables
 Agar Saat Menggunakan Screenwin tanpa harus ke directory tempatny,
 Anda Harus Setting Environment Variables nya dahulu,
 
@@ -31,7 +31,7 @@ Anda Harus Setting Environment Variables nya dahulu,
 4. Setelah Itu Tambahkan ';' Di Akhirnya, dan Save
 
 
-# Screenshot
+## Screenshot
 ![Screenwin](https://rifkytech.github.io/screenwin/screenshot/bash.png)
 
 # Lisensi
