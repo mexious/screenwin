@@ -17,7 +17,7 @@ Berhubung Ini Untuk OS Windows, Maka Perlu Aplikasi Terminal Tambahan Yaitu :
 Untuk Melalukan Instalasi Berikut Caranya :
 
 1. Install Aplikasi GNU Terminal Tambahan, (MINGW, CYGWIN)
-2. Download Repository Ini Di <a href="https://github.com/rifkytech/screenwin">SINI</a> , Atau Menggunakan Aplikasi Git / Terminal <code>git clone https://github.com/rifkytech/screenwin.git</code>
+2. Download Repository Ini Di <a href="https://github.com/rifkytech/screenwin/archive/master.zip">SINI</a> , Atau Menggunakan Aplikasi Git / Terminal <code>git clone https://github.com/rifkytech/screenwin.git</code>
 3. Setelah Di Download , Ketik <code> cd screenwin</code>
 4. Test Software nya dengan ketik perintah <code>sh screenwin</code>
 
