@@ -1,8 +1,8 @@
 <head>
 <link rel="shortcut icon" type="image/x-icon" href="https://www.mexious.net/favicon.ico">
 </head>
-### About screenwin
-Screenfetch Untuk Windows Versi v0.1 Beta,Merupakan Aplikasi Tool Informasi
+# About screenwin
+Screenfetch Untuk Windows Versi  v0.2.1 Stable,Merupakan Aplikasi Tool Informasi
 System Melalui Bash Terminal
 
 Ini Merupakan Aplikasi Open Source , Jadi Silahkan Dikembangkan 
