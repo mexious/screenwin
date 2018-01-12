@@ -34,6 +34,6 @@ Anda Harus Setting Environment Variables nya dahulu,
 ## Screenshot
 ![Screenwin](https://rifkytech.github.io/screenwin/screenshot/bash.png)
 
-# Lisensi
+## Lisensi
 Software Ini Menggunakan Lisensi GNU General License 
 Baca Selengkapnya >> <a href="https://www.gnu.org/licenses/gpl.html">https://www.gnu.org/licenses/gpl.html</a> <<
